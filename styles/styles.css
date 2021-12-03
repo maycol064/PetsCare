@@ -1,0 +1,105 @@
+html {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  background: linear-gradient(
+    252.44deg,
+    #3afc7b -47.92%,
+    #b7fbc6 25.19%,
+    #fffaf2 67.71%
+  );
+}
+
+.login {
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+}
+
+.title {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 64px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.icon-login {
+    display: block;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.fields-login {
+    display: block;
+    width: 200px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+}
+
+.password {
+    margin-bottom: 30px;
+}
+
+.submit {
+    display: block;
+    width: 100px;
+    height: 30px;
+    background-color: #3AFC7B;
+    border-radius: 10px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+.submit:hover {
+    cursor: pointer;
+    background-color: #078531;
+    color: #FFFFFF;
+}
+
+.signin-button {
+    display: block;
+    width: 150px;
+    height: 25px;
+    background-color: #E034B0;
+    border-radius: 10px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.signin-button:hover {
+    background-color: #740655;
+    color: #FFFFFF;
+}
