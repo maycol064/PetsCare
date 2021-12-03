@@ -8,4 +8,5 @@ Fue desarrollado por los alumno:
 - **Flores Ruiz Maycol Jair**
 
 Pertenecientes al grupo **3CV7** de la carrera de **Ingeniería en Sistemas Computacionales**.
-** ESCOM 2021 **
+
+**ESCOM 2021**
