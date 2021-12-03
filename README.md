@@ -6,5 +6,6 @@ Fue desarrollado por los alumno:
 - **Chavez Ortiz Diego**
 - **Cruz Gomez Marco Antonio**
 - **Flores Ruiz Maycol Jair**
+
 Pertenecientes al grupo **3CV7** de la carrera de **Ingeniería en Sistemas Computacionales**.
 ** ESCOM 2021 **
