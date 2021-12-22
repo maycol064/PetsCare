@@ -23,6 +23,6 @@
         <a href="./signin.php" class="signin-button">Registrar Clínica</a>
     </div>
     <br><br><br><br>
-    <p>Derechos Reservados PetsCare 2021</p>
+    <p>Derechos Reservados PetsCare 2022 :) </p>
 </body>
 </html>
