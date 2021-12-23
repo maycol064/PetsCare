@@ -35,43 +35,6 @@
             <label for="disponibylity-no">No</label><br><br>
             <label for="state">Número consultorios: </label>
             <input type="number" name="num-consult" min="2" max="20"><br><br>
-            <label>Servicios:</label><br>
-            <label>Atención médica:</label>
-            <input type="radio" name="atencion" id="si" value="1">
-            <label >Sí</label>
-            <input type="radio" name="atencion" id="no" value="0">
-            <label>No</label><br>
-            <label>Hospitalización:</label>
-            <input type="radio" name="hospitalizacion" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="hospitalizacion" id="no" value="0">
-            <label>No</label><br>
-            <label>Vacunación:</label>
-            <input type="radio" name="vacuna" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="vacuna" id="no" value="0">
-            <label>No</label><br>
-            <label>Desparacitación:</label>
-            <input type="radio" name="desparacitacion" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="desparacitacion" id="no" value="0">
-            <label>No</label><br>
-            <label>Alimento:</label>
-            <input type="radio" name="alimento" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="alimento" id="no" value="0">
-            <label>No</label><br>
-            <label>Accesorios:</label>
-            <input type="radio" name="accesorios" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="accesorios" id="no" value="0">
-            <label>No</label><br>          
-            <label>Estética:</label>
-            <input type="radio" name="estetica" id="si" value="1">
-            <label>Sí</label>
-            <input type="radio" name="estetica" id="no" value="0">
-            <label>No</label><br><br><br>
-            <input type="submit" value="Enviar" class="sent-form-register">
         </form>
     </section>
 </body>
